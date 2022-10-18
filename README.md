@@ -1,7 +1,6 @@
-
-import random2
+mport random2
 #gr 1/2
-# zad 1
+            #            zad 1
 def srednia_harmoniczna():
     suma=0
     i=0
